@@ -213,7 +213,7 @@ def run_setup(with_binary, test_xgboost, test_lightgbm, test_catboost, test_spar
                          "and locally accurate " + \
                          "additive feature attribution method based on expectations.",
         long_description_content_type="text/markdown",
-        url='http://github.com/slundberg/shap',
+        url='https://github.com/surbhi-gupta-drishya/shap',
         author='Scott Lundberg',
         author_email='slund1@cs.washington.edu',
         license='MIT',
